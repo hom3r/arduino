@@ -5,6 +5,7 @@ This project uses Arduino and LED matrix 8x8 to display an animated smiley.
 Components:
 * Arduino (preferably Micro or Nano to place it into the board)
 * 8x8 LED matrix module with MAX7219 driver and SPI interface (VCC, GND, DIN, CS, CLK)
+  * in Czech you can buy it on [LaskaKit](https://www.laskakit.cz/8x8-led-matice-s-dip-24-max7219-3mm-cervena/), [Dratek.cz](https://dratek.cz/arduino/850-led-matice.html), [GM elektro](https://www.gme.cz/maticovy-led-displej-8x8-s-max7219) or anywhere else
 
 Library used:
 * **LedControl** by *Eberhard Fahle* (version 1.0.6)
