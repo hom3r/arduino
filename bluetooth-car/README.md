@@ -4,7 +4,6 @@
 
 This project uses any board with ESP32 (module capable of Bluetooth connection) to make a car with remote control. You will need your mobile phone with the Dabble app installed to control the car.
 
-
 Components:
 * ESP32 Development Kit board
    * available on [Dratek](https://dratek.cz/arduino/51547-esp32-devkitc-development-board-38pin.html) shop
@@ -20,3 +19,9 @@ Components:
 * AA battery holder for 6 batteries ([GM Electronic](https://www.gme.cz/drzak-baterie-6xaa-bh363a))
 * 6x AA battery (please use rechargable batteries, they are much more ecological 🌍 than the non-rechargable)
 * breadboard and cables
+
+## Instructions
+*In progress...*
+
+![Project schematics](./schematics.png)
+The project schematics

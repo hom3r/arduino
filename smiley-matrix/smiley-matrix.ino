@@ -1,3 +1,10 @@
+/*
+Smiley on 8x8 LED matrix
+Author: David Beran
+
+See https://github.com/hom3r/arduino/tree/main/smiley-matrix
+*/
+
 #include "LedControl.h"
 
 const int FRAME = 80;

@@ -1,5 +1,8 @@
 /*
 Bluetooth car
+Author: David Beran
+
+See https://github.com/hom3r/arduino/tree/main/bluetooth-car
 
 The Dabble application and library is used for this project.
 See more on: https://thestempedia.com/docs/dabble/game-pad-module/
@@ -11,10 +14,10 @@ See more on: https://thestempedia.com/docs/dabble/game-pad-module/
 const byte PIN_BLUE = 4;
 const byte PIN_RED = 2;
 
-const byte PIN_MOTOR_A1 = 12;
-const byte PIN_MOTOR_A2 = 13;
-const byte PIN_MOTOR_B1 = 14;
-const byte PIN_MOTOR_B2 = 27;
+const byte PIN_MOTOR_A1 = 22;
+const byte PIN_MOTOR_A2 = 19;
+const byte PIN_MOTOR_B1 = 18;
+const byte PIN_MOTOR_B2 = 5;
 
 const byte SPEED = 100;
 
