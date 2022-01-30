@@ -1,2 +1,2 @@
-# arduino
-Simple Arduino projects with instructions and schematics
+# Arduino
+Simple Arduino projects with instructions and schematics.
